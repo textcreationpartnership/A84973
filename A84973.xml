@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true account of the vvonderful eruptions of a prodigious burning mountain, vvhich cast out vast quantities of fire to the destruction of several whole tovvns. Together with a relation of a vvonderful earth-quake. Likewise strange and vvonderful news from Ireland; giving a relation of a great flood that hapened there by rain. / As it tis now sent in a letter to His Majesty ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84973</idno>
+            <idno type="STC">Wing F2311BE</idno>
+            <idno type="STC">ESTC R201991</idno>
+            <idno type="EEBO-CITATION">45578376</idno>
+            <idno type="OCLC">ocm 45578376</idno>
+            <idno type="VID">172299</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84973)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172299)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2624:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true account of the vvonderful eruptions of a prodigious burning mountain, vvhich cast out vast quantities of fire to the destruction of several whole tovvns. Together with a relation of a vvonderful earth-quake. Likewise strange and vvonderful news from Ireland; giving a relation of a great flood that hapened there by rain. / As it tis now sent in a letter to His Majesty ...</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>Printed in the year, MDCLXXXVII [1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This may be printed Nov. the 28th. 1687. R.P."</note>
+                  <note>Reproduction of original in the Christ Church (University of Oxford) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Volcanoes --  Italy.</term>
+               <term>Floods --  Ireland.</term>
+               <term>Etna, Mount (Italy) --  Eruption, 1669.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172299:1"/>
+            <!-- PDF PAGE 13 -->
+            <pb facs="tcp:172299:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>
+               <hi>A Full and True ACCOUNT</hi> Of the VVonderful Eruptions of a Prodigious <hi>Burning Mountain,</hi> VVhich caſt out vaſt quantities of FIRE to the Deſtruction of ſeveral whole TOVVNS.</p>
+            <p>Together with a Relation of a VVonderful <hi>EARTH-QUAKE.</hi>
+            </p>
+            <p>Likewiſe ſtrange and VVonderful News from <hi>Ireland;</hi> giving a Relation of a Great Flood that hapened there by Rain.</p>
+            <p>As it tis now ſent in a Letter to His Majeſty</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>Nov.</hi> the 28<hi>th.</hi> 1687.</date>
+                           </dateline> 
+                           <signed>R. P.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON.</p>
+            <p>Printed in Year, MDCLXXXVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_earthquake">
+            <pb facs="tcp:172299:2"/>
+            <!-- PDF PAGE 14 -->
+            <pb n="1" facs="tcp:172299:2"/>
+            <!-- PDF PAGE 14 -->
+            <head>
+               <hi>A full and True ACCOUNT</hi> Of the Wonderful Eruptions of a Prodigious <hi>BURNING MOUNTAIN.</hi> Together with a Relation of a Wonderful <hi>EARTH-QUAKE,</hi> &amp;c.</head>
+            <p>THE wonderful Eruptions of this <hi>Burning Mountain</hi> its prodigious Vomiting of Fire, have for many A<g ref="char:EOLhyphen"/>ges been the Subject of all Mens Admiration; but cer<g ref="char:EOLhyphen"/>tainly they never more juſtly challeng'd the Worlds Aſtoniſhment, than by that diſmal Inundation of Fire; whereof here is a Relation.</p>
+            <p>This <hi>Burning Mountain</hi> is diſtant from the City <hi>Catania<g ref="char:EOLhyphen"/>nople</hi> 15 Miles; 'tis of a wonderful height, and about 15 Miles in length, and 7 in breadth, it Burns continually on the Top, but it has been obſerv'd for many Ages, that once in 15 Years it caſts out Flames of Fire more then ordinary, with Stones, and great quantities of Aſhes. But in the Year 1669 on <hi>Saturday</hi> the <hi>19th.</hi> of <hi>March,</hi> it rag'd ſo furiouſly that with its moſt diſmal Inundation it threatnd
+<pb n="2" facs="tcp:172299:3"/>
+               <!-- PDF PAGE 15 -->the Ruine of the whole <hi>Iſland.</hi> It began not without ſome ſigns, for the Sun was obſerv'd on the <hi>Friday,</hi> before its ſetting, to appear of a pale and dead Colour, which ſtruck great Terrour into the Inhabitants. But in the Night there happen'd a terrible and unuſal <hi>Earth-quake,</hi> which ſhook not only the City but all the Country, ſo violently that the People were forced to abandon their houſes, and fly into the open Fields to avoid the danger which threatned them from the falling of their Houſes. It continu'd ſo long and with ſuch violence, that ſhook down a whole Village called <hi>Nicoloſi,</hi> whilſt the poor people ſtood with Grief and Aſton<g ref="char:EOLhyphen"/>iſhment, beholding from afar the ruine of all they had: but obſerving the Earth to open in many places, their Terrour carried them to the City <hi>Catania,</hi> which was not uſed ſo roughly by the <hi>Earth-quake,</hi> where they entered ſo affright<g ref="char:EOLhyphen"/>ed that they were wholy Inſenſible of what they did.</p>
+            <p>This dreadful <hi>Earth-quake</hi> was follow'd by 3 Terrible Eruptions, much about the ſame time, and a little diſtance from one another. They were obſerv'd to be of the ſide of the <hi>Mountain Gebello,</hi> from whence with a terrible Noiſe it threw up its Flames with wonderful fury and violence as high as any Steeple in His Majeſties Kingdoms, its Noiſe not Roaring (as before) inward and from the Belly of the <hi>Mountain,</hi> but violently cracking like Peals of Thunder, from <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſide of it throwing out vaſt Stones, ſome of them 300 pound weight, which being as it were Shot through the Air, fell ſeveral Miles diſtant from the place,
+<pb n="3" facs="tcp:172299:3"/>
+               <!-- PDF PAGE 15 -->whilſt the whole Air was fil'd with Smoak, Burning Sin<g ref="char:EOLhyphen"/>ders, and Aſhes, which fell like a Fiery Rain upon the Country.</p>
+            <p>In the mean time a vaſt Torrent of melted and burning Matter iſſu'd from the ſide of this prodigious <hi>Mountain,</hi> and running down the <hi>Mountain Monpileri,</hi> divided it ſelf into two ſtreams, the greateſt of which took its courſe towards the Towns of <hi>Monpileri,</hi> and <hi>Falicchi,</hi> which in few hours it utterly deſtroy'd, leaving not ſo much as the leſt remaind<g ref="char:EOLhyphen"/>er of either; Beſides leſſer Villages and Farms which ſtood in its way Quickly after it over-flowed the Fields for above ſix miles in compaſs, like a Fiery Flood; It was of the Colour of melted and burning Glaſs, but as it cool'd, be<g ref="char:EOLhyphen"/>came hard and rocky, leaving in its paſſage ſeveral Hills of that Matter behind it.</p>
+            <p>The poor People were in ſuch a Conſternation, that they expected nothing leſs than a general Conflagration; for at the ſame time <hi>Mount Gebello</hi> rag'd from its Top with dreadful Flames, and ſuch violent Roarings, that it was not eaſie to be determin'd, which caus'd the greateſt Ter<g ref="char:EOLhyphen"/>rour, that, or the Concuſſions of the Earth which yet continu'd.</p>
+            <p>Theſe Currents of Fire kept on their courſe ſtill, ſo that by <hi>Thurſday March</hi> the <hi>24th.</hi> It had over-run <hi>Campo Rotundo,</hi> St. <hi>Pietro,</hi> and <hi>Maſterbianco,</hi> with <hi>La Potelli,</hi> and St. <hi>Antonio;</hi> Ruining all they mett with in their way, notwithſtanding the Rain which fell in abundance that
+<pb n="4" facs="tcp:172299:4"/>
+               <!-- PDF PAGE 16 -->day; for the Water was obſerv'd rather to add to the Fury of this Fire, then to any ways diminiſh it.</p>
+            <p>In the time of theſe diſmal affrights, whilſt the People were Aſtoniſh'd by their Fears, a great number of Rob<g ref="char:EOLhyphen"/>bers took an occaſion from this general diſtraction to make a Prey of the already deſtrſs'd People; which they found eaſie to be done, and had already Murthered ſeveral of them for their Goods: till Conſultation being had, leaſt <hi>Catania</hi> it ſelf ſhould be in danger from their great Num<g ref="char:EOLhyphen"/>bers, orders were taken to quell them. The Governour of the Town was ordered to ſend out Parties with his Pro<g ref="char:EOLhyphen"/>voſt-Marſhal, with command to Seize on all ſuſpected Per<g ref="char:EOLhyphen"/>ſons, and to Execute them according to Marſhal-Law, without any farther Tryal, thoſe who where taken in the Fact. In order to this three pair of Gallows were Erected, one before the Gate <hi>Di Aci,</hi> a ſecond in the <hi>Market-place,</hi> and the third before the Gate <hi>Della Decima;</hi> ſtrong Guards being ſet every where. The poor People of the Country being by theſe Calamities ſtript of all their Eſtates, Ran with general Lamentations to the City <hi>Catania;</hi> which indeed was open'd to receive them, and orders taken to ſupply them with Neceſſities (ſupplies of Proviſion being alſo ſent from <hi>Meſſina</hi> to their aſſiſtance) till their Calam<g ref="char:EOLhyphen"/>ities would give them leave to conſider of their better diſpoſal.</p>
+            <p>At this time all the Element ſeem'd to make War up<g ref="char:EOLhyphen"/>on them together, for the Air was continually darken'd
+<pb n="5" facs="tcp:172299:4"/>
+               <!-- PDF PAGE 16 -->with Clouds and Smoak, inſomuch that the Sun ſcarce appear'd all the time of theſe Eruptions, and if at any time, with extraordinary paleneſs to the great Terrour of of the People. The Sea ran higher than it was wont, over-flowing with extraordinary covering its Banks, in many places. The Land every where infected with Thieves, ſo that no one could ſtir abroad without danger of Death Till by the great care of the Magiſtrates they were quell'd: whilſt the Fire by its prodigious over-flowing threatn'd to take poſſion of all.</p>
+            <p>Theſe fatal Calamities continued till the <hi>30th.</hi> of <hi>March,</hi> when they began to have ſome hopes, that the vio<g ref="char:EOLhyphen"/>lence of it had been over, the <hi>Mountan</hi> not throwing out its Flames with that Fury as before, and its Noiſe and Roaring in grear meaſure ceaſing. Thoſe who at the neareſt diſtance view'd the <hi>Mountain,</hi> inform'd, that the Top was fallen in, and that it was ſuppos'd to want near a Mile of its former Height; that the largeſt of thoſe Mouths which Vomit thoſe Fiery Streams, was a<g ref="char:EOLhyphen"/>bout half a Mile in compaſs. The Matter which Iſſu'd out, was a mixture of all ſorts of Metals, <hi>Led, Iron, Braſs</hi> &amp;c. Its Flame like Brimſtone, and its Motion like that of Quick-ſilver. Whereſoever it paſs'd it left large heaps of its Matter congeal'd, which are now to be ſeen, they ſtill retain a Noiſom Smell like that of Sulphur.</p>
+            <p>
+               <pb n="6" facs="tcp:172299:5"/>
+               <!-- PDF PAGE 17 -->
+This Fiery Eruption laſted (with ſome Intermiſſions of its violence, but ſtill renewing it again afterwards) from the <hi>19th.</hi> of <hi>March,</hi> till the <hi>18th.</hi> of <hi>April</hi> 1669 having conſum'd and wholy deſtroy'd Eleven Towns, not ſo much as one Foot-ſtep of them Remaining, be<g ref="char:EOLhyphen"/>ſides Farms, and other Villages.</p>
+         </div>
+         <div type="account_of_flood">
+            <opener>
+               <dateline>
+                  <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> 
+                  <date>Decemb. <hi>the</hi> 6th. 1687.</date>
+               </dateline>
+            </opener>
+            <p>THere has happened here ſuch an Inundation as has not been known in the Memory of Man, or by any Record. The Rains have fallen ex<g ref="char:EOLhyphen"/>taordinary for theſe two Mouths paſt, but on <hi>Saturday</hi> laſt, in the Evening, a ſudden Stormatoſe, the Wind being Eaſt, and South Eaſt, which raged with that violence, that it put the lower part of the City under water up to the firſt Floor in moſt of the Houſes, and in ſome of them higher, inſo<g ref="char:EOLhyphen"/>much that there was no paſſage along thoſe ſtreets but by Carriages; and the Rains continuing, the Waters came up almoſt as high as St. <hi>Patrick</hi>'s Gate, and filled the Streets, ſo as Boats plied in them? and from <hi>Rings-end</hi> to <hi>Cork hill,</hi> all Kitchins and Cellars were full of Water, which roſe alſo a Foot above the <hi>Cuſtom-houſe-key,</hi> but, by the Care of the Officers, the Goods there in ſtore were ſecured from Damage. All the Bridges upon the River are ſaid to be broken down, and waſhed away, and, with the ſame Rapi<g ref="char:EOLhyphen"/>dity, the ſtream hath carried away great quantities of Timber, Goods of all ſorts, and men as well as Cattle. It continued ſhowering yeſterday, and rais'd the VVaters yet higher which broke down the Draw-Bridge of <hi>Eſſex</hi>-Bridge, and a Gentleman paſſing over it at the ſame time in his Coach, he had the good Fortune to eſcape himſelf, but the Coach and Horſes fall into the River, where the Coach man; and one of the Horſes periſhed. The Rain has ſince ceaſed; and the VVater is much abated, and now Peop<g ref="char:EOLhyphen"/>le are at little leiſure to conſider the damage which the Deluge has done, and they find it exceeding great though we don't yet hear what prejudice it has done further up in the Country, yet we can't doubt but there muſt have been a proportionable Loſs.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172299:5"/>
+            <!-- PDF PAGE 17 -->
+            <pb n="6" facs="tcp:172299:6"/>
+            <!-- PDF PAGE 18 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:172299:6"/>
+            <!-- PDF PAGE 18 -->
+         </div>
+      </body>
+   </text>
+</TEI>
